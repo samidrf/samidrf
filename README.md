@@ -1,20 +1,12 @@
-<h1 align="center">👋 Hi, I'm Dimas Rifqi!</h1>
-<h3 align="center">Software Engineer (Developer/Hunter/Creator)</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/26188697/180601594-d39a310f-71a0-42a9-aa7c-b38d5d317170.gif" width="200px" height="200px"></p>
-<p align="center">
-  <a target="_blank" href="https://instagram.com/samid_drf">
-    <img alt="Samid Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/samidrf">
-    <img alt="Samid LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a target="_blank" href="mailto:dimasrifqi358@gmail.com">
-    <img alt="Samid Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# 👋 Hi, I'm Dimas Rifqi!  
+**`Software Engineer (Developer/Hunter/Creator)`**<br/>
+
+👩🏻‍🎓 Student of #Cryptography<br/>
+💭 Known as @samid_drf on most social platforms<br/>
+👩🏻‍💻 A passionate Full Stack Developer from Indonesia<br/>
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="justify">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -59,4 +51,20 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=samidrf&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">  
+  <strong>Connect me on :</strong>  
+</p>  
+
+<p align="center">
+  <a target="_blank" href="https://instagram.com/samid_drf">
+    <img alt="Samid Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/samidrf">
+    <img alt="Samid LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:dimasrifqi358@gmail.com">
+    <img alt="Samid Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
