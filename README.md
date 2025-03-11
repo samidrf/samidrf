@@ -67,4 +67,8 @@
   <a target="_blank" href="mailto:dimasrifqi358@gmail.com">
     <img alt="Samid Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a target="_blank" href="https://mastodon.social/@samid_drf">
+    <img alt="Samid Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" />
+  </a>
 </p>
+
