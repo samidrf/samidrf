@@ -1,13 +1,20 @@
-# 👋 Hi, I'm Dimas Rifqi!
-
-**`Software Engineer (Developer/Hunter/Creator)`**
-
-👩🏻‍🎓 Student of #Cryptography<br/>
-💭 Known as @samid_drf on most social platforms<br/>
-👩🏻‍💻 A passionate Full Stack Developer from Indonesia<br/>
+<h1 align="center">👋 Hi, I'm Dimas Rifqi!</h1>
+<h3 align="center">Software Engineer (Developer/Hunter/Creator)</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/26188697/180601594-d39a310f-71a0-42a9-aa7c-b38d5d317170.gif" width="200px" height="200px"></p>
+<p align="center">
+  <a target="_blank" href="https://instagram.com/samid_drf">
+    <img alt="Samid Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/samidrf">
+    <img alt="Samid LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:dimasrifqi358@gmail.com">
+    <img alt="Samid Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
-<p align="justify">
+<p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -48,7 +55,6 @@
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
-
 
 # 📊 GitHub Stats:
 <p align="center">
