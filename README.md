@@ -1,9 +1,20 @@
 # 👋 Hi, I'm Dimas Rifqi!  
 **`Software Engineer (Developer/Hunter/Creator)`**<br/>
 
-👩🏻‍🎓 Student of #Cryptography<br/>
-💭 Known as @samid_drf on most social platforms<br/>
-👩🏻‍💻 A passionate Full Stack Developer from Indonesia<br/>
+<p align="justify">
+  Hey everyone! 👋 My name's Dimas Rifqi, a <strong>Computer Science</strong> student from <strong>Bogor</strong>. Known as <strong>@samid_drf</strong> on most social media platforms. Right now, I'm having fun with  
+  <strong>Java & Python</strong> and getting into <strong>Cyber Security</strong>.🚀I'm passionate about <strong>Software Development</strong>, especially backend engineering, and I love exploring new technologies.  
+  I enjoy problem-solving, whether it's debugging tricky code. Always open to discussions, collaborations, and learning new things! Let's connect and build something amazing together. 🚀
+</p>
+
+  ```python
+  def main():
+    if mood == "coding":
+      print("⚡ Productivity = MAX!✨🖥️")
+    else:
+      print("🐞 Debugging mode = ON🤯")
+  main()
+```
 
 # 💻 Tech Stack:
 <p align="justify">
